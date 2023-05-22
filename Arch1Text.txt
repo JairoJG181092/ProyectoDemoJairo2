@@ -1,0 +1,8 @@
+En el siguiente documento se muestra un ejemplo para la carga de archvivos en GIT
+
+Seleccionamos el repositorio a utilizar.
+clonamos el repositorio mediante la url
+una vez clonado el repositorio seleccionamos los archivos a guardar.
+
+damos commit a la rama donde se esta trabajndo
+Listo
