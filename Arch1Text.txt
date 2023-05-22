@@ -6,3 +6,5 @@ una vez clonado el repositorio seleccionamos los archivos a guardar.
 
 damos commit a la rama donde se esta trabajndo
 Listo
+
+Hacemos una pequeña modificacion
